@@ -35,9 +35,9 @@ gem 'swagger_client', '~> 1.0.0'
 
 ### Install from Git
 
-If the Ruby gem is hosted at a git repository: https://github.com/YOUR_GIT_USERNAME/YOUR_GIT_REPO, then add the following in the Gemfile:
+If the Ruby gem is hosted at a git repository: https://github.com/credit-saint/acqualify-ruby-sdk, then add the following in the Gemfile:
 
-gem 'swagger_client', :git => 'https://github.com/YOUR_GIT_USERNAME/YOUR_GIT_REPO.git'
+gem 'swagger_client', :git => 'https://github.com/credit-saint/acqualify-ruby-sdk.git'
 
 ### Include the Ruby code directly
 
