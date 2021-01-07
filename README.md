@@ -1,4 +1,4 @@
-# swagger_client
+# AcqualifyAPI SDK for Ruby Rails
 
 SwaggerClient - the Ruby gem for the Acqualify API Documentation
 
